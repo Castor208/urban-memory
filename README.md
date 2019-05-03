@@ -31,5 +31,10 @@ void (*__vector_timer2_a1)(void) = TIMER2_A1_ISR;
 - 2 other ppodcast coming
 - corporated partner
 
+## Kelly McGonigal
+L'instinct de volonté : Comment renforcer votre persévérance et mettre fin à la procrastination pour atteindre enfin tous vos objectifs
+
+- Combat ou Fuir (manqué une échéance)
+- Pause et Plan
 
 
