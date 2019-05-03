@@ -17,3 +17,18 @@ __attribute__ ((section("__interrupt_vector_timer2_a1"),aligned(2)))
 void (*__vector_timer2_a1)(void) = TIMER2_A1_ISR;
 #endif
 
+
+#GTD
+* capture
+* clarify
+* organise
+* reflected
+* engage
+
+
+- webinar friday
+- 2 other ppodcast coming
+- corporated partner
+
+
+
