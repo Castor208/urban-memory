@@ -18,6 +18,10 @@ void (*__vector_timer2_a1)(void) = TIMER2_A1_ISR;
 #endif
 ```
 
+# NOA
+* alpha
+* beta
+* gamma
 
 # GTD
 * capture
